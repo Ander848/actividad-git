@@ -1,2 +1,2 @@
 # actividad-git
-Mi primer Readme y git actividad
+Mi primer Readme y gir
